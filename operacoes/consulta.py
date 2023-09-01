@@ -7,4 +7,3 @@ def consultarSaldo(conta: int) -> None:
     else:
         print('Cliente não encontrado!')
 
-consultarSaldo(1)
